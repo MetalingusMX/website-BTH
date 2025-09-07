@@ -992,7 +992,7 @@ a.btn-blg:hover {
 /*Contact-stylesheets-include-here*/
 #contact {
 	text-align:center;
-	padding:3% 0% 0% 2%;
+	padding:5% 0% 0% 2%;
 }
 .contact-sec-1 {
 	text-align:left;
@@ -1030,6 +1030,14 @@ a.btn-blg:hover {
 	-o-transition-duration: 0.3s;
 	transition-duration: 0.3s;
 }
+
+.contact-sec-2 {
+	background-color: white;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, .26);
+}
+
 label {
 	font-size:15px;
 	font-weight:normal;
